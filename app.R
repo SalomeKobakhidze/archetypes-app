@@ -77,7 +77,7 @@ ui <- fluidPage(
   theme = bslib::bs_theme(
     bootswatch = "darkly",
     primary = "#C9A96E",
-    base_font = bslib::font_google("Cormorant Garamond")
+    base_font = "serif"
   ),
   
   # 👉 ეს ჩასვი ზუსტად აქ
